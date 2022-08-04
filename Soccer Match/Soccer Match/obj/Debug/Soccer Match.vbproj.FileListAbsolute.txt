@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\bin\Debug\Soccer Match.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\obj\Debug\Soccer_Match.FrmSoccerMatch.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\obj\Debug\Soccer_Match.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\obj\Debug\Soccer Match.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\bin\Debug\Soccer Match.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\bin\Debug\Soccer Match.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\bin\Debug\Soccer Match.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\obj\Debug\Soccer Match.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\obj\Debug\Soccer Match.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\obj\Debug\Soccer Match.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\bin\Debug\Soccer Match.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\bin\Debug\Soccer Match.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\obj\Debug\Soccer Match.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\ISD\Soccer Match\Soccer Match\obj\Debug\Soccer Match.application
